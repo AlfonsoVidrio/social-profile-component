@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://alfonsovidrio.github.io/social-profile-component/)
 
 ## My process
 
